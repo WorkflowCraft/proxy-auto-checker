@@ -15,6 +15,3 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project specific - country folder will be auto-generated
-country/
