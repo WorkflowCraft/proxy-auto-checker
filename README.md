@@ -7,28 +7,30 @@ This project automatically updates a list of free proxies daily using GitHub Act
 
 ## 📊 Proxy Statistics
 
-**Last Updated:** 2026-10-09 07:29:00 UTC
+**Last Updated:** 2026-10-10 07:24:17 UTC
 
-**Total Working Proxies:** 208
+**Total Working Proxies:** 220
 
 ### By Type
-- **HTTP**: 201
-- **SOCKS4**: 1
-- **SOCKS5**: 6
+- **HTTP**: 206
+- **HTTPS**: 2
+- **SOCKS4**: 5
+- **SOCKS5**: 7
 
 ### By Country (Top 10)
-- **Indonesia**: 49
-- **United_States**: 13
-- **Mexico**: 11
-- **Pakistan**: 10
-- **Philippines**: 9
-- **Ecuador**: 9
-- **China**: 8
-- **Brazil**: 7
+- **Indonesia**: 40
+- **United_States**: 15
+- **China**: 14
+- **Mexico**: 14
+- **Ecuador**: 11
+- **The_Netherlands**: 10
+- **Egypt**: 7
 - **India**: 6
-- **Thailand**: 6
+- **Hong_Kong**: 6
+- **Bangladesh**: 6
 
 ---
+
 
 
 
